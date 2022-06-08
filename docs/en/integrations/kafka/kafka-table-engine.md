@@ -46,7 +46,7 @@ This step is required if you are connecting to a secure Kafka. These settings ca
 </clickhouse>
 ```
 
-Either place the above snippet inside a new file under your conf.d/ directory or merge it into existing configuration files. For settings that can be configured, see [here](https://clickhouse.com/docs/en/engines/table-engines/integrations/kafka/#configuration).
+Either place the above snippet inside a new file under your config.d/ directory or merge it into existing configuration files. For settings that can be configured, see [here](https://clickhouse.com/docs/en/engines/table-engines/integrations/kafka/#configuration).
 
 
 #### 3. Create the destination table
